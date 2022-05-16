@@ -29,6 +29,7 @@
   <project path="packages/apps/Updater" name="android_packages_apps_Updater" remote="custom" />
 
   <project path="vendor/lineage" name="android_vendor_lineage" remote="custom" />
+  <project path="vendor/partner_gms" name="lineageos4microg/android_vendor_partner_gms" remote="github" revision="master" />
 
   <!-- Misc. -->
   <project path="merge_tool" name="merge_tool" remote="custom" />
